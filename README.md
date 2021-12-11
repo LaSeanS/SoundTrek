@@ -8,5 +8,5 @@ This is an Android app MVP created for CSC 4330 - Software Engineering.
 
 The integration_testing branch currently contains the final version of the app!!
 
-You must navigate to Sound_Trek/android/app/src/main/AndroidManifest.xml and insert a Google Maps API key at line 12 in order to get the app in a functional state.
+You must navigate to Sound_Trek/android/app/src/main/AndroidManifest.xml and insert a Google Maps API key at line 12 in order to get the app in a fully functional state.
 
