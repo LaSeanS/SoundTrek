@@ -8,7 +8,5 @@ The documentation branch contains the SRS document, Usability Test Plan, powerpo
 
 ## Setup
 
-The integration_testing branch currently contains the final version of the app!!
-
 You must navigate to SoundTrek/android/app/src/main/AndroidManifest.xml and insert a Google Maps API key at line 12 in order to get the app in a fully functional state.
 
